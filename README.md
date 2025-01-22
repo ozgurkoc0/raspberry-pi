@@ -15,3 +15,7 @@ Raspberry Pi needs an operating system to work: Raspberry Pi OS (previously call
 
 
 Once the OS was installed, I inserted the SD card into my Raspberry Pi, connected the peripherals, and powered it on.
+
+## Keyboard Settings
+
+To configure the keyboard layout on your Raspberry Pi, go to the **Preferences** -> **Raspberry Pi Configuration** -> **Localisation** -> **Keyboard**.
