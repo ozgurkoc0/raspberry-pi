@@ -1,8 +1,8 @@
-## Requirements
+## To get started you'll need
 
 - **Raspberry Pi:** Raspberry Pi 3 Model B+
-- **Power Supply:** 5V/2.2A Adapter
-- **SD Card:** 64GB
+- **Power Supply:** 5V/2.5A Adapter
+- **SD Card:** 32GB
 - **Display**
 - **Peripherals:** Mouse, keyboard etc.
 
